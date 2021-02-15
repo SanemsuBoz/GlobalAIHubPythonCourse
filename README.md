@@ -1,5 +1,5 @@
 # GAIH Student Repo Example
-![]https://github.com/SanemsuBoz/gaih-students-repo-example/raw/main/img/logo.png
+![](img/logo.png)
 
 **Course Date:** 15.02.2021  
 **Name:** Sanemsu  
@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![]https://github.com/SanemsuBoz/gaih-students-repo-example/raw/main/img/certificate_ex.png
+![](img/certificate_ex.png)
 
